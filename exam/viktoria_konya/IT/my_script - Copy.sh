@@ -1,4 +1,4 @@
-# Change directory 
+# Change path
 cd ~/ba-pre-session-2020-archive/exam/viktoria_konya/IT
 # Create folder
 mkdir made_by_my_script
